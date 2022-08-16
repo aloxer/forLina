@@ -1,0 +1,8 @@
+body{ background: -webkit-linear-gradient(left, #0E294B, #00BFFF); 
+    background: -o-linear-gradient(right, #0E294B, #00BFFF); 
+    background: -moz-linear-gradient(right,#0E294B , #00BFFF); 
+    background: linear-gradient(to right, #00BFFF, #252850); 
+background-color: #00BFFF; }
+
+
+#rob {margin-left:200px;margin-top:350px}
